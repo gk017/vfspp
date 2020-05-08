@@ -7,7 +7,9 @@ Forked from yevgeniy-logachev/vfspp and removed everything except memory file sy
 ## How To Build
 Builds shared lib only.
 ```
-cmake . 
+mkdir build
+cd build
+cmake .. 
 make
 ```
 
