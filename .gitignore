@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# Others
+.idea
+CMakeFiles
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+vfspp.cbp

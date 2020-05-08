@@ -9,7 +9,9 @@
 #ifndef CSTRINGUTILS_H
 #define CSTRINGUTILS_H
 
-#include "Global.h"
+//#include "Global.h"
+#include <vector>
+#include <string>
 
 namespace vfspp
 {
